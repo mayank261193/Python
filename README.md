@@ -14,7 +14,9 @@
 ## How to run
 
 ```
-python drill_01_temperature.py
+!python drill_01_temperature.py
+!python drill_02_bill.py
+!python drill_03_username.py
 ```
 
 ## What I learned
